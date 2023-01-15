@@ -114,7 +114,6 @@ def returnColorSimRGB(link, siteCount): #finding all div, a, and body tags gets 
         print("x")
     #print(sites)
     
-
 a = googlePrep(splitTitles(phrase), specTerm)
 b = a[0]
 returnColorSimRGB(b, siteCount)
